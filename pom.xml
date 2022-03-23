@@ -254,7 +254,7 @@
 			</resource>
 			<resource>
 				<directory>src/main/docker</directory>
-				<targetPath>../docker</targetPath>
+				<targetPath>../</targetPath>
 				<filtering>true</filtering>
 				<includes>
 					<include>**/*</include>
